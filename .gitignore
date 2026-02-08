@@ -1,0 +1,34 @@
+# Sekrety - NIE WRZUCAJ DO GITHUB!
+.env
+*.env
+
+# Model ML (za duży dla GitHub)
+#*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
